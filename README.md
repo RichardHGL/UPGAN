@@ -40,6 +40,12 @@ Each dataset is organized with following structure:
     - `train.dat`: mapped triples of train set;
     - `valid.dat`: mapped triples of validation set;
     - `test.dat`: mapped triples of test set.
+    
+## Training Instruction
+
+```
+sh run_book.sh
+```
 
 ## Acknowledgement
 Any scientific publications that use our codes and datasets should cite the following paper as the reference:
