@@ -28,7 +28,7 @@ We provide three processed datasets in : Movielens, Last-FM, and Amazon-book.
 | | #Triplets | 953,598 | 914,842 | 400,787|
 
 Each dataset is organized with following structure:
-- `data/`
+- `data-name/`
   - `rs/`
     - `u_map.dat`: user id mapping file;
     - `i_map.dat`: item id mapping file;
