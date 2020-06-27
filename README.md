@@ -2,7 +2,7 @@
 
 This is our Pytorch implementation for the paper:
 
-> Gaole He, Junyi Li, Wayne Xin Zhao, Peiju Liu and Ji-Rong Wen (2020). Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning. [Paper in arXiv](https://arxiv.org/abs/2003.12718). In WWW'2020, Taipei, Taiwan, China, April 20–24, 2020.
+> Gaole He, Junyi Li, Wayne Xin Zhao, Peiju Liu and Ji-Rong Wen (2020). Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning. [Paper](https://arxiv.org/abs/2003.12718), [video](https://www.youtube.com/watch?v=SABAIvhhMm0&list=PLJNwhMK_V7EyZCUt6SjW4JthoM9-QiHMZ&index=43). In WWW'2020, Taipei, Taiwan, China, April 20–24, 2020.
 
 <div  align="center">    
 <img src="model.Jpeg" width = "50%" height = "50%"/>
