@@ -47,8 +47,12 @@ Each dataset is organized with following structure:
 ## Training Instruction
 Download preprocessed datasets from [google drive](https://drive.google.com/file/d/1q3IsIsIYHxbywbSm5zD8H1iL_iwnR-dm/view?usp=sharing),
 and unzip it into data/ folder
+use following args to run the code
+
 ```
-sh run_book.sh
+--data_folder data/ 
+--dataset AmazonBook/ LastFM/ Movielens
+example commands: run_book.sh
 ```
 
 ## Acknowledgement
