@@ -45,7 +45,8 @@ Each dataset is organized with following structure:
     - `test.dat`: mapped triples of test set.
     
 ## Training Instruction
-
+Download preprocessed datasets from [google drive](https://drive.google.com/file/d/1q3IsIsIYHxbywbSm5zD8H1iL_iwnR-dm/view?usp=sharing),
+and unzip it into data/ folder
 ```
 sh run_book.sh
 ```
