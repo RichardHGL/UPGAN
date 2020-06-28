@@ -18,7 +18,7 @@ Each dataset is organized with following structure:
     - `test.dat`: mapped triples of test set.
 
 ## Download
-Download preprocessed datasets from [google drive](https://drive.google.com/file/d/1q3IsIsIYHxbywbSm5zD8H1iL_iwnR-dm/view?usp=sharing)
+Download preprocessed datasets from [google drive](https://drive.google.com/file/d/1CV-LyvqWA-_hkj4DvUoY48FhknhrDKMl/view?usp=sharing)
     
 ## Acknowledgement
 Any scientific publications that use our codes and datasets should cite the following paper as the reference:
