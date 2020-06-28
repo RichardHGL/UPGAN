@@ -16,6 +16,9 @@ Each dataset is organized with following structure:
     - `train.dat`: mapped triples of train set;
     - `valid.dat`: mapped triples of validation set;
     - `test.dat`: mapped triples of test set.
+
+## Download
+Download preprocessed datasets from [google drive](https://drive.google.com/file/d/1q3IsIsIYHxbywbSm5zD8H1iL_iwnR-dm/view?usp=sharing)
     
 ## Acknowledgement
 Any scientific publications that use our codes and datasets should cite the following paper as the reference:
